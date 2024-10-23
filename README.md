@@ -36,7 +36,3 @@ Assim que o botão de cálculo é acionado, o código em Javascript irá gerar u
     }
 });
 ```
-
-## Contato
-- [**LinkedIn**](www.linkedin.com/in/yasmin-costa-041aa52a3)
-- [**E-mail**](yasmincostalima07@gmail.com)
